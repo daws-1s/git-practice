@@ -1,13 +1,9 @@
 #!/bin/bash
 
-for i in 1 2 3 4 5 6 7 8 9 10
+for i in {0..1000} #0-1000
 do
-   echo $i
-   done
-# for i in {0..1000} #0-1000
-# do
-# 	echo $i
-# done
+	echo $i
+done
 
 # echo "1"
 # echo "2"
