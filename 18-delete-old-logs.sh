@@ -12,3 +12,4 @@ then
 else
     echo -e "$SOURCE_DIR $R does not exist $N"
     exit 1
+    fi
